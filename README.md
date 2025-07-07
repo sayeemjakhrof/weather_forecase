@@ -1,16 +1,29 @@
-# weather_forecase
+# 🌤️ Weather Forecast Flutter App
 
-A new Flutter project.
+A beautiful and simple weather forecast app built using Flutter.  
+It shows current temperature, hourly forecast, and additional information like humidity, wind speed, and pressure.
 
-## Getting Started
+![App Screenshot](screenshots/screenshot_1.png)
+![App in Action](screenshots/screenshot_2.png)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📍 Shows location-based current temperature
+- 🕐 Hourly weather forecast cards
+- 💧 Humidity, 🌬️ Wind Speed, and 🌡️ Pressure info
+- 🌙 Dark UI with clean layout
+- 🔥 Built with Flutter & Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Getting Started
+
+Clone the project and run:
+
+```bash
+git clone https://github.com/sayeemjakhrof/weather_forecase.git
+cd weather_forecase
+flutter pub get
+flutter run
