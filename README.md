@@ -3,7 +3,7 @@
 A beautiful and simple weather forecast app built using Flutter.  
 It shows current temperature, hourly forecast, and additional information like humidity, wind speed, and pressure.
 
-| ![Home](assets/screenshots/home.png) | ![Forecast](assets/screenshots/forecast.png) |
+![Screenshot 1](assets/screenshots/Screenshot_1.png)| ![Forecast](assets/screenshots/Screenshot_2.png) |
 
 ---
 
